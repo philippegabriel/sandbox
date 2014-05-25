@@ -4,6 +4,6 @@
 
 main()
 {
-	printf("hello, world\nI was buit on Travis\n");
+	printf("hello, world\nThis was buit on Travis\n");
 }
 
