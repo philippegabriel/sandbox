@@ -2,8 +2,9 @@
 
 #include <stdio.h>
 
-main()
+int main()
 {
 	printf("hello, world\nThis was buit on Travis\n");
+	return 0;
 }
 
