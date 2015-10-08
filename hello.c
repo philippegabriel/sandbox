@@ -4,7 +4,7 @@
 
 int main()
 {
-	printf("hello, world\nThis was buit on Travis\n");
+	printf("hello, world\nThis was buit on Eddie\n");
 	return 0;
 }
 
