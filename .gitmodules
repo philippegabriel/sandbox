@@ -1,0 +1,3 @@
+[submodule "configFiles"]
+	path = configFiles
+	url = https://gitlab.citrite.net/philippeg/configFiles.git
